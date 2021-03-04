@@ -13,8 +13,9 @@ npx @octoherd/script-hello-world   --octoherd-token 0123456789012345678901234567
 
 ## Options
 
-| option | type | description |
-| --- | --- | --- || `--greeting-name` | string | name to be greeted |
+| option            | type   | description        |
+| ----------------- | ------ | ------------------ |
+| `--greeting-name` | string | name to be greeted |
 
 ## Contributing
 
