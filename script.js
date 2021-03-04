@@ -6,4 +6,6 @@
  * @param {object} options
  * @param {string} [options.greetingName] name to be greeted
  */
-export async function script(octokit, repository, { greetingName }) {}
+export async function script(octokit, repository, { greetingName = "World" }) {
+  octokit.log.info("Hello, %s! From %s", greetingName, repository.full_name);
+}
