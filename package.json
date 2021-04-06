@@ -28,5 +28,10 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "renovate": {
+    "extends": [
+      "github>octoherd/.github"
+    ]
   }
 }
