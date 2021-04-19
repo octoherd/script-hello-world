@@ -8,9 +8,7 @@
 ## Usage
 
 ```js
-npx @octoherd/script-hello-world \
-  --octoherd-token 0123456789012345678901234567890123456789 \
-  "octoherd/*"
+npx @octoherd/script-hello-world
 ```
 
 ## Options

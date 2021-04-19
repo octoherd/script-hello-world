@@ -18,7 +18,7 @@
   "author": "Gregor Martynus (https://dev.to/gr2m)",
   "license": "ISC",
   "dependencies": {
-    "@octoherd/cli": "^2.7.2"
+    "@octoherd/cli": "^3.1.0"
   },
   "devDependencies": {},
   "release": {
